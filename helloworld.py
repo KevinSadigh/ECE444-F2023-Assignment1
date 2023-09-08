@@ -1,2 +1,2 @@
 #Program that writes hello world
-print("Hello World")
+print("Kevin Sadigh")
