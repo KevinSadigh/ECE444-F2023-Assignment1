@@ -5,8 +5,6 @@
 # Fixing issue and merge conflicts for activity 3 
 <img width="775" alt="Screenshot 2023-09-11 at 11 25 41 AM" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/9e40befd-d6a6-4162-91a9-71c65f5023e2">
 
-<img width="965" alt="Activity3Merge" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/12104744-eac0-42c6-b29a-876e94bc4d0a">
-
 # Activity 4 utils commit 
 <img width="710" alt="Screenshot 2023-09-11 at 11 24 11 AM" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/d4d6a27a-f764-4026-9582-86119d62b04c">
 
