@@ -1,5 +1,5 @@
 # Kevin Sadigh
-# Intiail read me 
+# Initial read me 
 <img width="957" alt="CommitScreen" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/ea9e6e43-16a9-4e82-b4b3-bd5cdb9d448c">
 
 # Activity 2 merge 
