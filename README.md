@@ -1,6 +1,10 @@
 # Kevin Sadigh
- 
+# Intiail read me 
 <img width="957" alt="CommitScreen" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/ea9e6e43-16a9-4e82-b4b3-bd5cdb9d448c">
+
+# Activity 2 merge 
+<img width="940" alt="Screenshot 2023-09-11 at 11 30 47 AM" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/3520ef7c-36d2-47e7-a8f1-fc753e728707">
+
 
 # Fixing issue and merge conflicts for activity 3 
 <img width="775" alt="Screenshot 2023-09-11 at 11 25 41 AM" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/9e40befd-d6a6-4162-91a9-71c65f5023e2">
