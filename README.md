@@ -2,10 +2,13 @@
  
 <img width="957" alt="CommitScreen" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/ea9e6e43-16a9-4e82-b4b3-bd5cdb9d448c">
 
+# Fixing issue and merge conflicts for activity 3 
+<img width="775" alt="Screenshot 2023-09-11 at 11 25 41 AM" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/9e40befd-d6a6-4162-91a9-71c65f5023e2">
 
 <img width="965" alt="Activity3Merge" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/12104744-eac0-42c6-b29a-876e94bc4d0a">
 
-<img width="700" alt="ActivityFourScreen" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/db348c6a-c203-4d11-84bb-436d1e3672a2">
+# Activity 4 utils commit 
+<img width="710" alt="Screenshot 2023-09-11 at 11 24 11 AM" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/d4d6a27a-f764-4026-9582-86119d62b04c">
 
 # commit order in develop branch 
 <img width="947" alt="CommitOrderDevelop" src="https://github.com/KevinSadigh/ECE444-F2023-Assignment1/assets/79182046/21782748-0508-4224-91e7-d04d0beec6a7">
